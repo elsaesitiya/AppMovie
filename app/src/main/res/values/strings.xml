@@ -1,8 +1,17 @@
 <resources>
     <string name="app_name">AppMovie</string>
 
+
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="favorite">Favorite</string>
+    <string name="account">Account</string>
+
     <string name="read_more">Read More</string>
     <string name="tayang_tanggal">Tayang tanggal: </string>
     <string name="setting">Setting</string>
     <string name="language">Language</string>
+
+
+
 </resources>
