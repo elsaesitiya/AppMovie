@@ -1,8 +1,7 @@
 <resources>
     <string name="app_name">AppMovie</string>
 
-    <string name="home">Home</string>
-    <string name="search">Search</string>
-    <string name="favorite">Favorite</string>
-    <string name="account">Account</string>
+    <string name="diputar">Diputar</string>
+    <string name="notifikasi">Notifikasi</string>
+    <string name="simpan">Simpan</string>
 </resources>
